@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "76258325099",
+    "project_id": "analyticsassignment-ccaf2",
+    "storage_bucket": "analyticsassignment-ccaf2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76258325099:android:228efa148e9acbc9f0f72e",
+        "android_client_info": {
+          "package_name": "com.example.analyticsassignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "76258325099-4ovj9fpu34o604s5qamn0f3la7q34l2p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmonlDV7a4GeLQgEH-NnjlktBZC6_M2_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "76258325099-4ovj9fpu34o604s5qamn0f3la7q34l2p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
